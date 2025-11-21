@@ -28,7 +28,7 @@ bool simulation_running(){
 	return sim_running;
 }
 
-//Student class simulates a student, uses a tread to carry out the student function  
+//Student class simulates a student, uses a thread to carry out the student function  
 class Student{
 public: 
 	//pointer to student thread
