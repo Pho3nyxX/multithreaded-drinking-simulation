@@ -2,8 +2,6 @@
 
 A multithreaded C++ simulation demonstrating how concurrent processes safely interact with shared resources using mutexes and condition variables, modeled through a scenario of students sharing a drink barrel monitored by a bartender.
 
-This project focuses on visualising Operating Systems concepts such as synchronization, critical sections, process states, and thread coordination in a fun and practical way.
-
 ---
 
 ## 📌 Project Overview
