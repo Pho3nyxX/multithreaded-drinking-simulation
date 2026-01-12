@@ -1,10 +1,10 @@
-# 🍺 Multithreaded Drinking Simulation
+# Multithreaded Drinking Simulation
 
 A multithreaded C++ simulation demonstrating how concurrent processes safely interact with shared resources using mutexes and condition variables, modeled through a scenario of students sharing a drink barrel monitored by a bartender.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This simulation consists of several interacting components:
 
@@ -17,7 +17,7 @@ Together, these components demonstrate real-world thread behavior such as conten
 
 ---
 
-## ⚙️ How the Simulation Works
+## How the Simulation Works
 
 #### Students
 
@@ -52,7 +52,7 @@ Together, these components demonstrate real-world thread behavior such as conten
 
 ---
 
-## ▶️ Build and Run:
+## Build and Run:
 
 1. Open a terminal window
 2. ``cd`` to the project directory
